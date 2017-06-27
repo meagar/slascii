@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require "slascii"
+
+cli = Slascii::CLI.new
+cli.run
+cli.write_output

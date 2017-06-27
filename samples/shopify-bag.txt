@@ -1,0 +1,49 @@
+                                --++oooo--                                        
+                            --++oooo++oooo++--                                    
+                          --oooo--  --oooooooooo--                                
+                        --oooo--  --oooo++oo++++oo--                              
+                        ++oo--  --oooo--  oo++  oo++                              
+                      --oo++    ++oo--    oo++  --oo------                        
+                      oooo    --oo++      ++oo  --oooooo33oo                      
+                    --oo--    ++oo--      ++oooooooooooo3300oo                    
+                    ++oo      oooo----++oooooooooooooooo330000oo++++----          
+                  --oo++    --oooooooooooooooooooooooooo3300000000000033          
+                  --oo++++++oooooooooooooooooooooooooooo3300000000000000--        
+                --++oooooooooooooooooooooooooooooooooooo3300000000000000--        
+          --++oooooooooooooooooooooooooooooooooooooooooo3300000000000000++        
+      --oooooooooooooooooooooooooooooooooooooooooooooooo0000000000000000oo        
+      --oooooooooooooooooooooooooooooooooooooooooooooooo0000000000000000oo        
+      ++oooooooooooooooooooooooooooooooooooooooooooooooo000000000000000033        
+      ++oooooooooooooooooooo++------------++oooooooooooo000000000000000033--      
+      ++oooooooooooooooo++--              ++oooooooooooo000000000000000000--      
+      oooooooooooooooo--                  ++oooooooooooo000000000000000000--      
+      oooooooooooooo--                  --oooooooooooooo000000000000000000++      
+    --oooooooooooo++                    ++oooooooooooo33000000000000000000oo      
+    --oooooooooooo--        --++++++----++oooooooooooo33000000000000000000oo      
+    --oooooooooooo        --oooooooooooooooooooooooooo3300000000000000000033      
+    ++oooooooooo++        --oooooooooooooooooooooooooo3300000000000000000033--    
+    ++oooooooooo++        --oooooooooooooooooooooooooo3300000000000000000000--    
+    ++oooooooooo++          --++oooooooooooooooooooooo3300000000000000000000++    
+    oooooooooooooo              ++oooooooooooooooooooo3300000000000000000000++    
+  --oooooooooooooo--              ++oooooooooooooooooo3300000000000000000000oo    
+  --oooooooooooooooo--              ++oooooooooooooooo3300000000000000000000oo    
+  --oooooooooooooooo++--              oooooooooooooooo330000000000000000000033    
+  ++oooooooooooooooooooo--            ++oooooooooooooo330000000000000000000033--  
+  ++oooooooooooooooooooooo--          --oooooooooooooo330000000000000000000000--  
+  ++oooooooooooooooooooooo++          --oooooooooooooo330000000000000000000000++  
+  ++oooooooooo++++oooooooo++          --oooooooooooooo330000000000000000000000++  
+  oooooooooooo--  --++oooo--          --oooooooooooooo000000000000000000000000oo  
+--oooooooooo++                        ++oooooooooooooo000000000000000000000000oo  
+--oooooooooo++                      --oooooooooooooooo00000000000000000000000033  
+--oooooooooo++                      ++oooooooooooooooo00000000000000000000000033--
+++oooooooooooooo--                ++oooooooooooooooooo00000000000000000000000000--
+++oooooooooooooooo++++--------++oooooooooooooooooooooo00000000000000000000000000++
+oooooooooooooooooooooooooooooooooooooooooooooooooooo3300000000000000000000000000oo
+++oooooooooooooooooooooooooooooooooooooooooooooooooo3300000000000000000000000000oo
+  ----++++oooooooooooooooooooooooooooooooooooooooooo330000000000000000000000000033
+            ------++++oooooooooooooooooooooooooooooo330000000000000000000000003333
+                        ----++++oooooooooooooooooooo33000000000000000033oo++++--  
+                                  ----++++oooooooooo330000003333oo++--            
+                                            ----++++oo33oo++--                    
+
+(3901 chars)
