@@ -52,6 +52,63 @@ oo33----++33333333333333333333333333333333333333--------33oo
                   --++oo330000000033oo++--
 ```
 
+## Options
+
+- `-i`, `--invert` - Invert the chosen palette (ie, white-on-black becomes black-on-white)
+
+  ```text
+  $ slascii face.png --width 15
+
+        --++3333333333++--
+      --oooo----------oooo--
+    --33++--------------++33--
+  --33oooo++------++++oo--++oo--
+  ++33++oo00----++++--3333--oo++
+  33oo  --oo++--++--  ++oo++--33
+  33oo++++++++--++++++++oo++--33
+  33--++++++------++++++++----33
+  33--oo3333333333333333oo----33
+  33--oo000000000000000000----33
+  ++oo++000000003333000033--oo++
+  --oo++oo000033++++++00oo++oo--
+    --33++3300++--++oooo++33--
+      --oooooooooooo++oooo--
+        --++3333333333++--
+
+  (464 chars)
+
+  $ slascii face.png --width 15 --invert
+
+  00000033oo----------oo33000000
+  000033++++3333333333++++330000
+  0033--oo33333333333333oo--3300
+  33--++++oo333333oooo++33oo++33
+  oo--oo++  3333oooo33----33++oo
+  --++0033++oo33oo3300oo++oo33--
+  --++oooooooo33oooooooo++oo33--
+  --33oooooo333333oooooooo3333--
+  --33++----------------++3333--
+  --33++                  3333--
+  oo++oo        ----    --33++oo
+  33++oo++    --oooooo  ++oo++33
+  0033--oo--  oo33oo++++oo--3300
+  000033++++++++++++oo++++330000
+  00000033oo----------oo33000000
+
+  (464 chars)
+  ```
+
+- `-c`, `--chars` - The number of characters to use in generating output. Slascii will generate the largest image it
+  can without using *more* than this number of characters. The actual number used will usually be less, as the image's
+  aspect ratio may not allow for *exactly* the requested number of characters.
+
+
+- `-w`, `--width` - The width of output in columns, overriding the default character count of 4000. Slascii will
+  generate output that is exactly the width requested.
+
+- `-b` `--no-banner` - Don't print the `(XXX chars)` banner after the image. By default, Slascii will tell you how many
+  characters were in the output so you have some idea whether your messaging app will accept it.
+
 ## A note about palettes
 
 Some palettes won't make sense for you, because your team won't have our custom emoji. Some palettes output emoji in

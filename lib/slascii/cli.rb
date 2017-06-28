@@ -25,6 +25,7 @@ module Slascii
       palette = options[:palette]
       palette = palette.reverse if options[:invert]
 
+      @banner = options.fetch(:banner, true)
       @output = if options[:chars]
         make_art_to_character_count(options[:filename], palette, options[:chars])
       else
@@ -33,7 +34,8 @@ module Slascii
     end
 
     def write_output
-      puts "#{output}\n\n(#{output.length} chars)"
+      puts output
+      puts "\n\n(#{output.length} chars)" if @banner
     end
 
     private
@@ -67,6 +69,10 @@ module Slascii
             PALETTES.keys.each { |k| puts "  - #{k}" }
             exit
           end
+        end
+
+        opts.on '-b', '--no-banner', 'Do not print the character count below the output' do
+          options[:banner] = false
         end
 
         opts.on '-i', '--invert', 'Invert colors' do
