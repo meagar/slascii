@@ -14,7 +14,7 @@ module Slascii
       unicode: ['██', '▓▓', '▒▒', '  '].freeze,
       shopify:  [':s33:', ':s13:', ':s12:', ':s11:', ':s02:', ':s00:'].freeze,
       ping_pong: [':pong:', ':s00:'].freeze,
-      troll: [':troll:', '  '].freeze,
+      troll: [':troll:', ':s00:'].freeze,
       madmatt: [':madmatt:', ':s00:'].freeze,
     }.freeze
 
